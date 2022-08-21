@@ -87,7 +87,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Deployment
 
-To deploy this project run
+To deploy this project locally run
 
 ```bash
   pip install -r requirements.txt && python main.py
