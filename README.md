@@ -1,8 +1,8 @@
 
 # Movie Reviews API
-## Backend for my movie reviews.
+Backend for my movie reviews.
 # Links
-## [Website Link](https://movies.piuroprauxy.ml/) | [Website Source](https://github.com/yPiuro/moviereviews) | [API Link](https://api.piuroprauxy.ml/)
+[Website Link](https://movies.piuroprauxy.ml/) | [Website Source](https://github.com/yPiuro/moviereviews) | [API Link](https://api.piuroprauxy.ml/)
 
 ## Environment Variables
 
