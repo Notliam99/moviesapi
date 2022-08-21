@@ -95,3 +95,8 @@ Dockerfile coming soon...
 ```bash
   COMING SOON
 ```
+
+## Authors
+
+- [@yPiuro](https://www.github.com/octokatherine) - Main Developer.
+- [@notliam99](https://github.com/Notliam99) - Hosting/Server Provider. ♥
