@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira&family=Uchen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root {
+--bg-color: #757575;
+}
+
+::-webkit-scrollbar {
+width: 10px;
+/* Mostly for vertical scrollbars */
+height: 10px;
+/* Mostly for horizontal scrollbars */
+}
+
+::-webkit-scrollbar-thumb {
+/* Foreground */
+background: #999;
+}
+
+::-webkit-scrollbar-track {
+/* Background */
+background: var(--bg-color);
+}
+
+.reviewContent {
+font-size: 25px;
+color: aliceblue;
+font-family: 'Saira', sans-serif;
+}
+
+body {
+background-color: var(--bg-color);
+}
+
+.mainHeader {
+position: relative;
+text-align: center;
+font-size: 55px;
+-webkit-text-fill-color: rgb(255, 255, 255);
+-webkit-text-stroke: 0.75px;
+-webkit-text-stroke-color: black;
+font-family: 'Bebas Neue', cursive;
+color: aliceblue;
+margin: 0;
+}
+
+.center {
+margin: auto;
+text-align: center;
+}
+
+.reviewContainer {
+padding: 15px;
+outline-color: black;
+outline-style: solid;
+outline-width: initial;
+border-radius: 2px;
+height: fit-content;
+max-width: 75%;
+position: relative;
+}
+
+
+.title {
+font-size: 50px;
+-webkit-text-fill-color: rgb(255, 255, 255);
+-webkit-text-stroke: 2px;
+-webkit-text-stroke-color: rgb(0, 0, 0);
+font-family: 'Fira Sans', sans-serif;
+font-weight: lighter;
+margin: 0;
+}
+
+.text {
+font-size: 35px;
+color: aliceblue;
+font-family: 'Fira Sans', sans-serif;
+font-weight: lighter;
+-webkit-text-stroke: 1px;
+-webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+a {
+color: #093e99 !important;
+text-decoration: underline !important;
+-webkit-text-stroke: 0px;
+-webkit-text-stroke-color: rgb(0, 0, 0);
+}

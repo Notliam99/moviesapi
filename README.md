@@ -6,26 +6,15 @@ Backend for my movie reviews. using [fastAPI](https://fastapi.tiangolo.com/)
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your email.env and token.env files
+To run this project, you will need to add the following environment variables to your project
+
+### General env
+
+`PORT`
 
 ### token.env
 
 `TOKEN`
-
-### mail.env
-
-`MAIL_USERNAME`
-
-`MAIL_PASSWORD`
-
-`MAIL_FROM`
-
-`MAIL_PORT`
-
-`MAIL_SERVER`
-
-`MAIL_FROM_NAME`
-
 
 ## API Reference
 
@@ -99,3 +88,10 @@ To deploy this project locally run
   pip install -r requirements.txt && python main.py
 ```
 
+## Deployemnet
+
+Dockerfile coming soon...
+
+```bash
+  COMING SOON
+```
