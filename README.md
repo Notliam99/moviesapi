@@ -85,7 +85,13 @@ To run this project, you will need to add the following environment variables to
 | `content`      | `string` | Updated review content |
 | `rating`      | `float` | Updated movie rating for review (Higher than 5 will remove rating) |
 
-## Deployment
+## requirements
+
+Python 3.10
+
+[pip requirements](https://raw.githubusercontent.com/yPiuro/moviesapi/main/requirements.txt)
+
+## Run locally
 
 To deploy this project locally run
 
